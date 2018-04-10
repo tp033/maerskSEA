@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="maerskWUS" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\User\\Documents\\Visual\ Studio\ 2015\\Projects\\maerskWest\\maerskSEA\\maersk\\maersk\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\User\\Documents\\Visual\ Studio\ 2015\\Projects\\maerskWest\\maerskSEA\\maersk\\maersk\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="connString-Web.config Connection String" description="" value="Data Source=ddacgeorepserver.database.windows.net;Initial Catalog=Maerskline;User ID=demouser;Password=Demo@pass123" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\User\\Documents\\Visual\ Studio\ 2015\\Projects\\maerskWest\\maerskSEA\\maersk\\maersk\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='connString']/@connectionString" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="" value="Data Source=tcp:ddacgeorepserver.database.windows.net,1433;Initial Catalog=Maerskline;User Id=demouser@ddacgeorepserver;Password=Demo@pass123" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\User\\Documents\\Visual\ Studio\ 2015\\Projects\\maerskWest\\maerskSEA\\maersk\\maersk\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+</parameters>

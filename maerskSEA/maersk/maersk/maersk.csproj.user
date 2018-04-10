@@ -3,7 +3,7 @@
   <PropertyGroup>
     <UseIISExpress>true</UseIISExpress>
     <ProjectView>ProjectFiles</ProjectView>
-    <NameOfLastUsedPublishProfile>maerskSEA - Web Deploy</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>maersklineseaapp - Web Deploy</NameOfLastUsedPublishProfile>
   </PropertyGroup>
   <ProjectExtensions>
     <VisualStudio>

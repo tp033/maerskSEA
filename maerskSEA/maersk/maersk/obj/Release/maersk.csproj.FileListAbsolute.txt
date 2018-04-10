@@ -130,3 +130,16 @@ C:\Users\User\Documents\Visual Studio 2015\Projects\maerskSEA\maersk\maersk\bin\
 C:\Users\User\Documents\Visual Studio 2015\Projects\maerskSEA\maersk\maersk\obj\Release\maersk.csprojResolveAssemblyReference.cache
 C:\Users\User\Documents\Visual Studio 2015\Projects\maerskSEA\maersk\maersk\obj\Release\maersk.dll
 C:\Users\User\Documents\Visual Studio 2015\Projects\maerskSEA\maersk\maersk\obj\Release\maersk.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\maerskSEA\maersk\maersk\bin\ApplicationInsights.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\maerskSEA\maersk\maersk\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\maerskSEA\maersk\maersk\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\maerskSEA\maersk\maersk\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\maerskSEA\maersk\maersk\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\maerskSEA\maersk\maersk\bin\Microsoft.AI.Web.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\maerskSEA\maersk\maersk\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\maerskSEA\maersk\maersk\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\maerskSEA\maersk\maersk\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\maerskSEA\maersk\maersk\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\maerskSEA\maersk\maersk\bin\Microsoft.AI.Web.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\maerskSEA\maersk\maersk\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\maerskSEA\maersk\maersk\bin\Microsoft.ApplicationInsights.xml

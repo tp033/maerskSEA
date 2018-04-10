@@ -37,7 +37,7 @@
             <div class="form-group">
                         <asp:Label runat="server" AssociatedControlID="sID" CssClass="col-md-2 control-label">Selected Schedule ID</asp:Label>
                         <div class="col-md-10">
-                            <asp:TextBox runat="server" ID="sID" CssClass="form-control" />
+                            <asp:TextBox runat="server" ID="sID" CssClass="form-control" Enabled="False" />
                             <asp:RequiredFieldValidator runat="server" ControlToValidate="sID"
                                 CssClass="text-danger" ErrorMessage="The Selected Schedule ID field is required." />
                         </div>
@@ -45,7 +45,7 @@
               <div class="form-group">
                         <asp:Label runat="server" AssociatedControlID="bID" CssClass="col-md-2 control-label">Selected Booking ID</asp:Label>
                         <div class="col-md-10">
-                            <asp:TextBox runat="server" ID="bID" CssClass="form-control" />
+                            <asp:TextBox runat="server" ID="bID" CssClass="form-control" Enabled="False" />
                             <br />
                             </div>
                     </div>

@@ -87,8 +87,8 @@ namespace maersk.mae_Agent
             Int32 count = Convert.ToInt32(comm.ExecuteScalar());
             if (count > 0)
             {
-                ClientScript.RegisterStartupScript(this.GetType(), "alert", "alert('Registration failed: Customer's email or NRIC/Passport is registered before this.')", true);
-                ClientScript.RegisterClientScriptBlock(this.GetType(), "alert", "alert('Registration failed: Customer's email or NRIC/Passport is registered before this.')", false);
+                ClientScript.RegisterStartupScript(this.GetType(), "alert", "alert('Registration failed: The email or NRIC/Passport is registered before this.')", true);
+
 
                 isFound = true;
                 //email exist message

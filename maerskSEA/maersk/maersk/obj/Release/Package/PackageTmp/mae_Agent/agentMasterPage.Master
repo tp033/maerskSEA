@@ -54,6 +54,7 @@
                         <li><a runat="server" href="~/mae_Agent/bookVessel.aspx">Book New Shipment </a></li>
                         <li><a runat="server" href="~/mae_Agent/registerCustomer.aspx">Register customer</a></li>
                         <li><a runat="server" href="~/mae_Agent/registerItem.aspx">Item registration</a></li>
+                        <li><a runat="server" href="~/mae_Agent/ViewCustomer.aspx">View customer</a></li>
 
 
                     </ul>

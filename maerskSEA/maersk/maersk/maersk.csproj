@@ -201,8 +201,7 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <None Include="Properties\PublishProfiles\maerskDemo - Web Deploy.pubxml" />
-    <None Include="Properties\PublishProfiles\maerskSEA - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\maersklineseaapp - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="mae_Admin\createSchedule.aspx" />
     <Content Include="mae_Admin\registerAgent.aspx" />
@@ -211,6 +210,7 @@
     <Content Include="mae_Agent\registerCustomer.aspx" />
     <Content Include="mae_Agent\registerItem.aspx" />
     <Content Include="mae_Agent\ViewBooking.aspx" />
+    <Content Include="mae_Agent\ViewCustomer.aspx" />
     <Content Include="Scripts\ai.0.22.9-build00167.js" />
     <Content Include="Scripts\ai.0.22.9-build00167.min.js" />
     <Content Include="Scripts\bootstrap.js" />
@@ -374,6 +374,13 @@
     </Compile>
     <Compile Include="mae_Agent\ViewBooking.aspx.designer.cs">
       <DependentUpon>ViewBooking.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mae_Agent\ViewCustomer.aspx.cs">
+      <DependentUpon>ViewCustomer.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mae_Agent\ViewCustomer.aspx.designer.cs">
+      <DependentUpon>ViewCustomer.aspx</DependentUpon>
     </Compile>
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

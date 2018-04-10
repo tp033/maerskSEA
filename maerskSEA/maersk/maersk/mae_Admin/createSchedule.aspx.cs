@@ -125,7 +125,7 @@ namespace maersk.mae_Admin
                         {
                             con.Open();
                             int recordsAffected = comm.ExecuteNonQuery();
-                            ClientScript.RegisterStartupScript(this.GetType(), "alert", "alert('agent registered')", true);
+                           
                         }
                         catch (SqlException)
                         {
@@ -177,7 +177,7 @@ namespace maersk.mae_Admin
             }
             else
             {con.Close();
-                ClientScript.RegisterStartupScript(this.GetType(), "alert", "alert('Booking created')", true);
+                ClientScript.RegisterStartupScript(this.GetType(), "alert", "alert('Schedule created');window.location.href = './createSchedule.aspx' ", true);
 
                 return true;
                 
